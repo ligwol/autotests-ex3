@@ -56,5 +56,10 @@ namespace atFrameWork2.PageObjects
             ClickMenuItem(btnNews);
             return new NewsPage();
         }
+
+        public CalendarSlider OpenCalendar()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

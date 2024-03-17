@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATframework3demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c096322c459b18826dec9450137ed7a0e83435e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATframework3demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATframework3demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
